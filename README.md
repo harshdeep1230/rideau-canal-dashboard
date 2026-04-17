@@ -65,7 +65,7 @@ The dashboard will be available at http://localhost:3000.
 
 ## Related Repositories
 
-  * Main Documentation: [rideau-canal-monitoring](https://www.google.com/search?q=https://github.com/harshdeep1230/rideau-canal-monitoring)
+  * Main Documentation: [rideau-canal-monitoring]([https://www.google.com/search?q=https://github.com/harshdeep1230/rideau-canal-monitoring](https://github.com/harshdeep1230/rideau-canal-monitoring))
   * Sensor Simulation: [rideau-canal-sensor-simulation](https://www.google.com/search?q=https://github.com/harshdeep1230/rideau-canal-sensor-simulation)
 
 ## Live Link
